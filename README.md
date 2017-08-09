@@ -1,7 +1,4 @@
 # TRANSLATIONS
-====================
-TRANSLATION PROJECT
-====================
 ENGLISH
 ruialv
 FRENCH
