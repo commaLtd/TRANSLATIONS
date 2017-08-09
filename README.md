@@ -1,11 +1,4 @@
 # TRANSLATIONS
-ENGLISH
-ruialv
-FRENCH
-cargem
-CHINESE
-robste
-
 
 # VOLUME 1:
 accounts_view_lang
@@ -52,3 +45,11 @@ equip_import_view
 
 PROBLEMATIC
 anon_wr_view - user is not logged in
+
+# EXTRA NOTES FOR TRANSLATORS
+ENGLISH
+ruialv
+FRENCH
+cargem
+CHINESE
+robste
