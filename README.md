@@ -43,30 +43,30 @@
 7. confequip_view_lang
 
 # VOLUME 4
-*AVAILABLE IN ENGLISH
-*AVAILABLE IN CHINESE
+* AVAILABLE IN ENGLISH
+* AVAILABLE IN CHINESE
 ## This volume contains the following files
 1. create_wo_view_lang
 2. display_wo_view_lang
 
 # VOLUME 5
-*AVAILABLE IN ENGLISH
-*AVAILABLE IN CHINESE
+* AVAILABLE IN ENGLISH
+* AVAILABLE IN CHINESE
 ## This volume contains the following files
 1. equip_docs_table_view_lang
 2. equip_import_view_lang
 3. equip_table_view_lang
 
 # VOLUME 6
-*AVAILABLE IN ENGLISH
-*AVAILABLE IN CHINESE
+* AVAILABLE IN ENGLISH
+* AVAILABLE IN CHINESE
 ## This volume contains the following files
 1. equip_view_lang
 2. equip_view_2_lang
 
 # VOLUME 7
-*AVAILABLE IN ENGLISH
-*AVAILABLE IN CHINESE
+* AVAILABLE IN ENGLISH
+* AVAILABLE IN CHINESE
 ## This volume contains the following files
 1. financial_view_lang
 2. fl_details_docs_table_view_lang
