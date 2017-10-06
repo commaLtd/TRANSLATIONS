@@ -11,14 +11,15 @@
 * AVAILABLE IN CHINESE
 * AVAILABLE IN FRENCH
 
-###### accounts_view_lang
-###### conf_fl_view_lang
-###### conf_org_view_lang
-###### conf_perms_view_lang
-###### dashboard_view_lang
-###### footer_view_lang
-###### header_view_lang
-###### performance_snapshot_view_lang
+## This volume contains the following files
+##### accounts_view_lang
+##### conf_fl_view_lang
+##### conf_org_view_lang
+##### conf_perms_view_lang
+##### dashboard_view_lang
+##### footer_view_lang
+##### header_view_lang
+##### performance_snapshot_view_lang
 
 #H1 VOLUME 2
 *AVAILABLE IN ENGLISH
