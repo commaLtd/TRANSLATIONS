@@ -1,26 +1,26 @@
-#H1INSTRUCTIONS
+#H1 INSTRUCTIONS
 1. There is one folder per language.
 2. Inside the lanuage folder, there are folders with the name "Volume X" where X is the volume number.
 3. The only fully complete language folder is English.
 4. For a given language, if the number of folders is the same as the English folder, then the language is fully translated.
 5. If, on the other hand, the number of folders inside the language folder is not the same as the English folder then the folders missing are the ones that need to be translated.
 
-#H1VOLUME 1
-*AVAILABLE IN ENGLISH
-*AVAILABLE IN PORTUGUESE
-*AVAILABLE IN CHINESE
-*AVAILABLE IN FRENCH
+#H1 VOLUME 1
+* AVAILABLE IN ENGLISH
+* AVAILABLE IN PORTUGUESE
+* AVAILABLE IN CHINESE
+* AVAILABLE IN FRENCH
 
-###### H6accounts_view_lang
-###### H6conf_fl_view_lang
-###### H6conf_org_view_lang
-###### H6conf_perms_view_lang
-###### H6dashboard_view_lang
-###### H6footer_view_lang
-###### H6header_view_lang
-###### H6performance_snapshot_view_lang
+###### H6 accounts_view_lang
+###### H6 conf_fl_view_lang
+###### H6 conf_org_view_lang
+###### H6 conf_perms_view_lang
+###### H6 dashboard_view_lang
+###### H6 footer_view_lang
+###### H6 header_view_lang
+###### H6 performance_snapshot_view_lang
 
-#H1VOLUME 2
+#H1 VOLUME 2
 *AVAILABLE IN ENGLISH
 *AVAILABLE IN PORTUGUESE
 *AVAILABLE IN CHINESE
