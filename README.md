@@ -46,6 +46,12 @@ plan_view_lang
 fl_details_2_view_lang
 
 VOLUME 8:
+db_link_view_lang
+profile_view_lang
+reports_list_table <--- here now here now here now
+
+
+
 
 
 MISSED AS NOT PRIORITY:
@@ -56,11 +62,4 @@ anon_wr_view - user is not logged in
 login_form - user is not logged in
 no_logged_in_view - user is not logged in
 org_config_form - user is not logged in
-
-# EXTRA NOTES FOR TRANSLATORS
-ENGLISH
-ruialv
-FRENCH
-cargem
-CHINESE
-robste
+register_form_view - user is not logged in
